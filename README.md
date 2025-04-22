@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rumela Adhikary</h1>
 <h3 align="center">A computational chemist from India</h3>
 
-- 🔭 I’m done my PhD on  **Studying peptide self-assembly**
+- 🔭 I have done my PhD on  **Studying peptide self-assembly**
 
-- 🌱 I’m currently learning **Parallel programming , GPU programming**
+- 🌱 I like to develop new methods. I’m currently learning **Parallel programming , GPU programming**
 
 - 📫 How to reach me **rumelaadhikary1@gmail.com**
 
